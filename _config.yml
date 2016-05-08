@@ -1,6 +1,6 @@
 name: linauzunhasan
 favicon: null
-layout_spectrum: 0.4157706
+layout_spectrum: 0.71685
 typography_spectrum: 0.41107
 title: Lina Uzunhasan
 collections:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fffefa'
-    - '#9a232a'
-    - '#37463f'
-    - '#fc4147'
-    - '#937b77'
-  brandStrength: 0.625
+    - '#000000'
+    - '#cc9f84'
+    - '#a68060'
+    - '#623a18'
+    - '#885f42'
+  brandStrength: 0.5
   lightness: 0.75
-  saturation: 0.8125
-  rhythmicContrast: 1
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
