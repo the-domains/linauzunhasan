@@ -1,6 +1,6 @@
 name: linauzunhasan
 favicon: null
-layout_spectrum: 0.50098
+layout_spectrum: 0.98583
 typography_spectrum: 0.16668605478480458
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#a68060'
     - '#623a18'
     - '#885f42'
-  brandStrength: 0.5
+  brandStrength: 0.6875
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
